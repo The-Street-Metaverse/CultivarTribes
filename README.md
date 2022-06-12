@@ -1,2 +1,2 @@
-# Cali-Tribe-Cultivars
+# Cali Tribe Cultivars
 The Cali Tribe Cultivars 
